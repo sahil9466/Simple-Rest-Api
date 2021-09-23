@@ -1,0 +1,86 @@
+[{
+    "_id": {
+        "$oid": "612e20e6495677b466c41b55"
+    },
+    "name": "modern",
+    "email": "modern@gmail.com",
+    "phone": "568569856666",
+    "website": "http://modern.com",
+    "location": {
+        "type": "point",
+        "coordinates": [-73.893018,
+            42.782937
+        ],
+        "street": "566 Balltown Rd",
+        "city": "Schenectady",
+        "state": "NY",
+        "country": "US"
+    },
+    "careers": "unix",
+    "photo": "photo_612e20e6495677b466c41b55.jpg",
+    "createdAt": {
+        "$date": "2021-08-31T12:30:30.054Z"
+    },
+    "slug": "modern",
+    "__v": 0,
+    "user": {
+        "$oid": "6148283aef877b13c6af9903"
+    }
+}, {
+    "_id": {
+        "$oid": "612e33a124ae24bcdcb33bca"
+    },
+    "name": "sachin",
+    "email": "sachin@gmail.com",
+    "phone": "5685698566",
+    "website": "http://sachin.com",
+    "location": {
+        "type": "point",
+        "coordinates": [-72.960151,
+            40.946625
+        ],
+        "street": "2 Model Ct, TOWN",
+        "city": "Rocky Point",
+        "state": "NY",
+        "country": "US"
+    },
+    "careers": "web development",
+    "photo": "no-photo",
+    "createdAt": {
+        "$date": "2021-08-31T13:50:25.487Z"
+    },
+    "slug": "sachin",
+    "__v": 0,
+    "user": {
+        "$oid": "6148284fef877b13c6af9904"
+    }
+}, {
+    "_id": {
+        "$oid": "612e340a24ae24bcdcb33bce"
+    },
+    "name": "hitesh",
+    "email": "sachin@gmail.com",
+    "phone": "5685698566",
+    "website": "http://sachin.com",
+    "location": {
+        "type": "point",
+        "coordinates": [
+            77.18575,
+            28.71201
+        ],
+        "street": "Gali Number 2 Model Town आर-42/2",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "IN"
+    },
+    "careers": "web development",
+    "photo": "photo_612e340a24ae24bcdcb33bce.jpg",
+    "createdAt": {
+        "$date": "2021-08-31T13:52:10.160Z"
+    },
+    "slug": "hitesh",
+    "__v": 0,
+    "user": {
+        "$oid": "61482822ef877b13c6af9902"
+    }
+}]

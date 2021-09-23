@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61444bd67860017e37eab2ee"
+  },
+  "name": "jerry",
+  "email": "jerry@gmail.com",
+  "role": "publisher",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61446b508582699d141d7dfd"
+  },
+  "name": "tom",
+  "email": "tom@gmail.com",
+  "role": "user",
+  "password": "$2a$10$Kh9y.zVj1.NtXzA1VdC43OUwbSrr1VAfVqHgJwm.BjqxrazeN6U8.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61482d6a9f605752d7fd7f2d"
+  },
+  "name": "hp",
+  "email": "hp@gmail.com",
+  "role": "user",
+  "password": "$2a$10$2QCxCx7xbSdOvukFnV8MTeltTqJH1xmApSoEuIxCVP82LMJJOhllK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61482dc89f605752d7fd7f2f"
+  },
+  "name": "dell",
+  "email": "dell@gmail.com",
+  "role": "admin",
+  "password": "$2a$10$WY7ib0m8zjL9wYJ9pgXI5uSYu7oPaXA5F51fOx2HNDmUit5xXlC7G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614836f3fa16a6d628736320"
+  },
+  "name": "lenovo",
+  "email": "lenovo@gmail.com",
+  "role": "user",
+  "password": "$2a$10$wQQbvHaLZPrUUQTLNj7XA.M/rCh1ZGw2KKxHpGu9H4CT.WbCo16WW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614880e35309f2b0b85ad190"
+  },
+  "name": "tempu",
+  "email": "tempu@gmail.com",
+  "role": "user",
+  "password": "$2a$10$ErX6aHdmwHMPh79jBGAdL.KpvhEBTGaKbsyN4CuM6pD2OuUUcBJ7m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614981d4c606579b70857778"
+  },
+  "name": "john",
+  "email": "john@gmail.com",
+  "role": "user",
+  "password": "$2a$10$MnHsxm5XafSXw8u4zMvlkelJd2FzQcTI1USwLJKcTPXevJk5rDoJS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614b0123368185d34dd74faa"
+  },
+  "name": "Admin Account",
+  "email": "admin@gmail.com",
+  "role": "user",
+  "password": "$2a$10$j80dOUJOl3jPy61oZoFlfersCD86g7teKboZJYaBciC0eO4gMBWem",
+  "__v": 0
+}]

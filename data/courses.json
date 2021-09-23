@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "6130677b5fc569d1c814aa41"
+  },
+  "title": "unix",
+  "description": "drrdeddefffffrfed",
+  "weeks": "15",
+  "tuition": 12000,
+  "minimumSkill": "intermediate",
+  "bootcamp": {
+    "$oid": "612e33a124ae24bcdcb33bca"
+  },
+  "scholarshipAvailable": "false"
+},{
+  "_id": {
+    "$oid": "6142e39fa72213f69471ad7e"
+  },
+  "title": "full stack web development",
+  "description": "drrdeddefffffrfed",
+  "weeks": "12",
+  "tuition": 10001,
+  "scholarshipAvailable": false,
+  "bootcamp": {
+    "$oid": "612e340a24ae24bcdcb33bce"
+  },
+  "createdAt": {
+    "$date": "2021-09-16T06:26:39.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142f4b7df19e85269ec1cf5"
+  },
+  "title": "full stack web development",
+  "description": "drrdeddefffffrfed",
+  "weeks": "12",
+  "tuition": 10001,
+  "scholarshipAvailable": false,
+  "bootcamp": {
+    "$oid": "612e340a24ae24bcdcb33bce"
+  },
+  "createdAt": {
+    "$date": "2021-09-16T07:39:35.273Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142f508df19e85269ec1cf9"
+  },
+  "title": "full stack web development",
+  "description": "drrdeddefffffrfed",
+  "weeks": "12",
+  "tuition": 10001,
+  "scholarshipAvailable": false,
+  "bootcamp": {
+    "$oid": "612e33a124ae24bcdcb33bca"
+  },
+  "createdAt": {
+    "$date": "2021-09-16T07:40:56.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142f9b113af71830c7fc700"
+  },
+  "title": "full stack web development",
+  "description": "drrdeddefffffrfed",
+  "weeks": "12",
+  "tuition": 10001,
+  "scholarshipAvailable": false,
+  "bootcamp": {
+    "$oid": "612e340a24ae24bcdcb33bce"
+  },
+  "createdAt": {
+    "$date": "2021-09-16T08:00:49.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6142f9ff13af71830c7fc704"
+  },
+  "title": "web development",
+  "description": "gyhhhbbjnijjbjihbbyhgjbughjkhgb",
+  "weeks": "9",
+  "tuition": 15622,
+  "scholarshipAvailable": false,
+  "bootcamp": {
+    "$oid": "612e340a24ae24bcdcb33bce"
+  },
+  "createdAt": {
+    "$date": "2021-09-16T08:02:07.427Z"
+  },
+  "__v": 0
+}]
